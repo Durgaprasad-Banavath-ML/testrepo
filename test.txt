@@ -1,5 +1,5 @@
 This is my test file for the AZURE 
-this is new line added in this branch b5
+this is new line added in this branch b5, now updating line 2
 This is my test file for the AZURE
 
-this is new line added in this branch b5
+this is new line added in this branch b5 line 5

@@ -1,5 +1,5 @@
 #test.yaml
-#this is new line added in this branch b5
+#this is new line added in this branch b5 and updated line2
 tenantDefaults:
   subscriptionId: "12345678-1234-1234-1234-123456789012"
   tenantId: "87654321-4321-4321-4321-210987654321"
@@ -20,4 +20,5 @@ tenantDefaults:
     managed-by: "versa-platform"
     created-by: "tenant-provisioning-service"
     cost-center: "platform-infrastructure"
-    cloud-environment: "commercial"
+    cloud-environment: "government"
+    test: "line5"
